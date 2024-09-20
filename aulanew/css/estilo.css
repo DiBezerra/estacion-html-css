@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(0, 114, 190);
+    text-align: center;
+}
+
+.container{
+    border: transparent;
+    border: 10px double;
+    background-color: rgb(3, 3, 136);
+    height: 150px;
+    box-shadow: 0px 0px 0px 5px yellow;
+    
+}
+
+.Nome{
+    
+    height: ; width:;
+}
